@@ -18,7 +18,7 @@ pipeline {
 
       steps {
 
-        git ''https://github.com/KishoreAC/ClassEndProject
+        git 'https://github.com/KishoreAC/ClassEndProject'
 
       }
 
